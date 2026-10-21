@@ -18,7 +18,10 @@ Semua analisis dan penjelasan ada di **`UTS_GSD.ipynb`**.
 └── data/events_p1.csv, events_p2.csv
 ```
 
-`events.csv` asli (±90 MB) tidak diunggah. Unduh dari link Kaggle di atas jika ingin membuat ulang.
+## Dataset
+
+Dataset hasil filter tidak diunggah ke GitHub karena ukurannya terlalu besar.
+link: [Google Drive](https://drive.google.com/drive/folders/1NL5fXa58kaGCuSJJ1o2Q9ypzarjO8oGJ?usp=sharing)
 
 ## Environment
 
