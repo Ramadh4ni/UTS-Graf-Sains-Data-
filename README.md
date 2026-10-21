@@ -1,7 +1,6 @@
 # UTS-Graf-Sains-Data-
 # UTS Graf Sains Data
 
-UTS Graf Sains Data, Prodi S1 Sains Data, Universitas Negeri Surabaya (Gasal 2026/2027).
 Yogi Ramadhani 2023B (NIM `23031554198`).
 
 Data interaksi e-commerce [RetailRocket](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset) dimasukkan ke Neo4j sebagai graf Visitor → Item, dibuat representasi vektornya (VSM), dihitung kemiripan antar-item, lalu dipakai untuk rekomendasi dengan KNN. Evaluasinya memakai Hit@5 dan NDCG@5.
