@@ -1,4 +1,3 @@
-# UTS-Graf-Sains-Data-
 # UTS Graf Sains Data
 
 Yogi Ramadhani 2023B (NIM `23031554198`).
