@@ -74,6 +74,5 @@ Hit@5 dan NDCG@5 bernilai 0 untuk user ini karena tidak ada rekomendasi yang coc
 ## Catatan
 
 - `requirements.txt` di soal mengunci `neo4j==4.2.1`, tapi versi itu belum punya `execute_query`. Saya pakai driver 6.x. Di driver ini, `routing_` diisi `"r"`, bukan `RoutingControl.READ`.
-- Bobot interaksi (view = 1, addtocart = 3, bought = 5) adalah asumsi saya.
+- Bobot interaksi (view = 1, addtocart = 3, bought = 5) adalah asumsi saya sendiri.
 - Semua pemilihan acak memakai seed 42, dan filter waktu memakai UTC.
-- Jangan unggah password ke GitHub. Notebook memakai `getpass`.
